@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1531612453 source:c:\users\asus\desktop\músicas\practicando\classgameoo\actor.cpp
+
+1531724696 source:c:\users\asus\desktop\músicas\practicando\classgameoo\bala.cpp
+	"Bala.h"
+
+1531745792 c:\users\asus\desktop\músicas\practicando\classgameoo\bala.h
+	"tools.h"
+	"Actor.h"
+
+1531751145 c:\users\asus\desktop\músicas\practicando\classgameoo\tools.h
+	<allegro.h>
+	<vector>
+	<iostream>
+
+1531750088 c:\users\asus\desktop\músicas\practicando\classgameoo\actor.h
+	"tools.h"
+
+1531716873 source:c:\users\asus\desktop\músicas\practicando\classgameoo\comida.cpp
+	"Comida.h"
+
+1531716292 c:\users\asus\desktop\músicas\practicando\classgameoo\comida.h
+	"tools.h"
+
+1531720565 source:c:\users\asus\desktop\músicas\practicando\classgameoo\enemigo.cpp
+	"Enemigo.h"
+	"tools.h"
+	"strmapa.h"
+	<thread>
+	<chrono>
+
+1531719293 c:\users\asus\desktop\músicas\practicando\classgameoo\enemigo.h
+	"tools.h"
+	"Actor.h"
+
+1531719452 c:\users\asus\desktop\músicas\practicando\classgameoo\strmapa.h
+
+1531750164 source:c:\users\asus\desktop\músicas\practicando\classgameoo\game.cpp
+	"tools.h"
+	"Game.h"
+	"Mapa.h"
+	"Lista_de_J.h"
+	"Tanque.h"
+	"Enemigo.h"
+
+1531747114 c:\users\asus\desktop\músicas\practicando\classgameoo\game.h
+	"tools.h"
+	"Mapa.h"
+
+1531750033 c:\users\asus\desktop\músicas\practicando\classgameoo\mapa.h
+	"tools.h"
+	"Comida.h"
+
+1531749988 c:\users\asus\desktop\músicas\practicando\classgameoo\lista_de_j.h
+	"tools.h"
+	"Game.h"
+
+1531719940 c:\users\asus\desktop\músicas\practicando\classgameoo\tanque.h
+	"tools.h"
+	"Actor.h"
+	"Bala.h"
+
+1531725323 source:c:\users\asus\desktop\músicas\practicando\classgameoo\main.cpp
+	<iostream>
+	"Game.h"
+	<allegro.h>
+
+1531726409 source:c:\users\asus\desktop\músicas\practicando\classgameoo\mapa.cpp
+	"tools.h"
+	"Mapa.h"
+	"Game.h"
+	"Lista_de_J.h"
+	"Actor.h"
+	"strmapa.h"
+
+1531745792 source:c:\users\asus\desktop\músicas\practicando\classgameoo\tanque.cpp
+	"Tanque.h"
+	"tools.h"
+	"strmapa.h"
+	<thread>
+	<chrono>
+
+1531749988 source:c:\users\asus\desktop\músicas\practicando\classgameoo\lista_de_j.cpp
+	<algorithm>
+	"tools.h"
+	"Lista_de_J.h"
+	"Actor.h"
+	"strmapa.h"
+	"Bala.h"
+	"Comida.h"
+
